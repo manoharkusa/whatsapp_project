@@ -1,0 +1,3 @@
+BROWSER=msedge.exe
+###Browser=chrome.exe
+###Browser=firefox.exe
